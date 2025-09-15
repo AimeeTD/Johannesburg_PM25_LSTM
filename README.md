@@ -1,6 +1,4 @@
 # Johannesburg_PM25_LSTM
-LSTM model for forecasting PM2.5 in Johannesburg based on Masinde (2024) with preprocessing, training, and visualisations.
-# Johannesburg_PM25_LSTM
 
 This repository contains the code and supplementary files for the MSc dissertation:
 "Forecasting PM2.5 in Johannesburg Using LSTM: Building on Peer-Reviewed Models for Air Quality in the Global South."
