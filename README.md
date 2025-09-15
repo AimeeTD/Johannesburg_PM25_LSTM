@@ -29,4 +29,4 @@ Masinde, A.W., Mwaniki, P.M. and Mwaniki, J.I. (2024) 'Leveraging long short ter
 
 ## Dataset
 Global air quality dataset (10,000 rows) available on Kaggle:  
-[https://www.kaggle.com/datasets/waqi786/global-air-quality-dataset]
+(https://www.kaggle.com/)
